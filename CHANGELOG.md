@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`a20542a`](https://github.com/stdlib-js/stdlib/commit/a20542aba55714d744e959d3073fa5bb9966e454) - **style:** remove whitespace _(by Athan Reines)_
 -   [`3af0a04`](https://github.com/stdlib-js/stdlib/commit/3af0a041f6ae95c251cbfa2acae82b30e3b4579b) - **fix:** return `NaN` when the number of indexed elements is zero in `stats/strided/distances/dcosine-similarity` [(#9497)](https://github.com/stdlib-js/stdlib/pull/9497) _(by Nakul Krishnakumar)_
 -   [`f40f3ed`](https://github.com/stdlib-js/stdlib/commit/f40f3ed3614de207225686772c7858c64510d1fb) - **docs:** fix parameter description _(by Philipp Burckhardt)_
 -   [`7be3235`](https://github.com/stdlib-js/stdlib/commit/7be3235f58dab6f5a5ac11a58ddad8d5ba2fcb1a) - **feat:** add `stats/strided/distances/dcosine-similarity` [(#9281)](https://github.com/stdlib-js/stdlib/pull/9281) _(by Nakul Krishnakumar, Athan Reines, stdlib-bot)_
