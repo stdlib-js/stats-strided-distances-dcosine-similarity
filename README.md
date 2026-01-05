@@ -173,7 +173,7 @@ var z = dcosineSimilarity.ndarray( 3, x, 2, 1, y, -1, y.length-1 );
 
 ## Notes
 
--   If `N <= 0`, both functions return `0.0`.
+-   If `N <= 0`, both functions return `NaN`.
 
 </section>
 
@@ -376,7 +376,7 @@ See [LICENSE][stdlib-license].
 
 ## Copyright
 
-Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
+Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 
 </section>
 
