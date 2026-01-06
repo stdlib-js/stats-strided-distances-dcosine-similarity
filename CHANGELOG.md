@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-01-05)
+## Unreleased (2026-01-06)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`d5f4e8c`](https://github.com/stdlib-js/stdlib/commit/d5f4e8cbabde611d9859f9acda04e5b4f0daecd9) - **style:** remove whitespace _(by Athan Reines)_
 -   [`4016fcb`](https://github.com/stdlib-js/stdlib/commit/4016fcbd472fb1dc58b091a59f0828e810f73866) - **style:** remove whitespace _(by Athan Reines)_
 -   [`a20542a`](https://github.com/stdlib-js/stdlib/commit/a20542aba55714d744e959d3073fa5bb9966e454) - **style:** remove whitespace _(by Athan Reines)_
 -   [`3af0a04`](https://github.com/stdlib-js/stdlib/commit/3af0a041f6ae95c251cbfa2acae82b30e3b4579b) - **fix:** return `NaN` when the number of indexed elements is zero in `stats/strided/distances/dcosine-similarity` [(#9497)](https://github.com/stdlib-js/stdlib/pull/9497) _(by Nakul Krishnakumar)_
