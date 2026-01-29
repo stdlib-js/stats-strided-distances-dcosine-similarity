@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.1.0">
 
-## Unreleased (2026-01-06)
+## 0.1.0 (2026-01-29)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`2035f34`](https://github.com/stdlib-js/stdlib/commit/2035f344a1a469278042b7532f034dc6119933b3) - **docs:** add function documentation _(by Athan Reines)_
 -   [`d5f4e8c`](https://github.com/stdlib-js/stdlib/commit/d5f4e8cbabde611d9859f9acda04e5b4f0daecd9) - **style:** remove whitespace _(by Athan Reines)_
 -   [`4016fcb`](https://github.com/stdlib-js/stdlib/commit/4016fcbd472fb1dc58b091a59f0828e810f73866) - **style:** remove whitespace _(by Athan Reines)_
 -   [`a20542a`](https://github.com/stdlib-js/stdlib/commit/a20542aba55714d744e959d3073fa5bb9966e454) - **style:** remove whitespace _(by Athan Reines)_
